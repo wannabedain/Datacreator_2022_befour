@@ -22,4 +22,4 @@
   * CNN 구조
     : 하이퍼파라미터, 이미지 크기 설정
     
-  <img width="639" alt="스크린샷 2023-03-19 오후 1 18 09" src="https://user-images.githubusercontent.com/91936267/226153361-bba333be-a805-4c7a-9de9-8370e2067412.png">
+![image](https://user-images.githubusercontent.com/91936267/226153419-01e3656b-5364-4c8f-b8f6-3a7473c263de.png)
