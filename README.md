@@ -5,9 +5,9 @@
 
 ## Mission 1 / 2
 - EDA (클래스 별 분포 및 특성 확인)
-  이미지 특성 값 width(가로), heigh(세로), pixel(픽셀) 추출
-  이미지 채널을 BGR -> RGB로 변경
-  각 이미지마다 픽셀 평균값 계산 
+  * 이미지 특성 값 width(가로), heigh(세로), pixel(픽셀) 추출
+  * 이미지 채널을 BGR -> RGB로 변경
+  * 각 이미지마다 픽셀 평균값 계산 
   -> Metadata 데이터 프레임 생성
   
   ### 학습 데이터의 불균형 존재  -> undersampling
